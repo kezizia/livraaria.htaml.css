@@ -1,0 +1,13 @@
+body{
+	background-color: mediumpurple;
+}
+
+p {
+	color: black;
+	font-size: 20px;
+
+}
+
+.livraria {
+	align-items: right;
+}
